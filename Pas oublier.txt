@@ -1,0 +1,4 @@
+Quand on veut connecter 2 client en testant avec le jeu, pas oublier de changer les matricules.
+
+Ajouter la boucle while par rapport au truc du 2048
+
