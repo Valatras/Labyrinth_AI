@@ -1,2 +1,0 @@
-Ajouter la boucle while par rapport au truc du 2048
-
